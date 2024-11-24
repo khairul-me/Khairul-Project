@@ -1,0 +1,1 @@
+timestamp,angle,raw_distance,filtered_distance,is_gap,confidence,baseline_distance,threshold,anomaly_score,validation_score,precision,recall,f1_score,temporal_consistency,spatial_consistency,cluster_confidence,prediction_confidence
